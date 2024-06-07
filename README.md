@@ -1,4 +1,4 @@
-<h1>Desafio: Criando um sistema Bancário com Python!</h1>
+<h1>Desafio: Criando um sistema bancário com Python!</h1>
 <h2>Objetivo Geral:</h2>
 <p>Criar um sistema bancário com as operações: sacar, depositar e visualizar extrato.</p>
 <h2>Desafio: </h2>
